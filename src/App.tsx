@@ -1,7 +1,7 @@
 import { defineComponent, reactive, ref } from 'vue';
 const img = require('./assets/logo.png'); // eslint-disable-line
 
-import HelloWorld from './components/HelloWorld.vue';
+import HelloWorld from './components/HelloWorld';
 
 export default defineComponent({
   setup() {
