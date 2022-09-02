@@ -1,5 +1,4 @@
 import { createApp, defineComponent, h, createVNode, reactive, ref } from 'vue';
-import HelloWorld from './components/HelloWorld.vue';
 
 import App from './App';
 
